@@ -1,0 +1,182 @@
+Title: The Shawshank Redemption
+Genre: Drama
+Director Name: Frank Darabont
+Studio: Castle Rock Entertainment
+Year: 1994
+
+Title: The Godfather
+Genre: Crime
+Director Name: Francis Ford Coppola
+Studio: Paramount Pictures
+Year: 1972
+
+Title: The Godfather Part II
+Genre: Crime
+Director Name: Francis Ford Coppola
+Studio: Paramount Pictures
+Year: 1974
+
+Title: Schindler's List
+Genre: Drama
+Director Name: Steven Spielberg
+Studio: Amblin Entertainment
+Year: 1993
+
+Title: 12 Angry Men
+Genre: Drama
+Director Name: Sidney Lumet
+Studio: Orion-Nova Productions
+Year: 1957
+
+Title: Spirited Away
+Genre: Animation
+Director Name: Hayao Miyazaki
+Studio: Studio Ghibli
+Year: 2001
+
+Title: The Dark Knight
+Genre: Action
+Director Name: Christopher Nolan
+Studio: Warner Bros. Pictures
+Year: 2008
+
+Title: Dilwale Dulhania Le Jayenge
+Genre: Romance
+Director Name: Aditya Chopra
+Studio: Yash Raj Films
+Year: 1995
+
+Title: The Green Mile
+Genre: Drama
+Director Name: Frank Darabont
+Studio: Castle Rock Entertainment
+Year: 1999
+
+Title: The Lord of the Rings: The Return of the King
+Genre: Fantasy
+Director Name: Peter Jackson
+Studio: New Line Cinema
+Year: 2003
+
+Title: Parasite
+Genre: Thriller
+Director Name: Bong Joon-ho
+Studio: Barunson E&A
+Year: 2019
+
+Title: Pulp Fiction
+Genre: Crime
+Director Name: Quentin Tarantino
+Studio: Miramax
+Year: 1994
+
+Title: Your Name.
+Genre: Animation
+Director Name: Makoto Shinkai
+Studio: CoMix Wave Films
+Year: 2016
+
+Title: Interstellar
+Genre: Science Fiction
+Director Name: Christopher Nolan
+Studio: Paramount Pictures
+Year: 2014
+
+Title: The Good, the Bad and the Ugly
+Genre: Western
+Director Name: Sergio Leone
+Studio: Produzioni Europee Associate
+Year: 1966
+
+Title: Forrest Gump
+Genre: Drama
+Director Name: Robert Zemeckis
+Studio: Paramount Pictures
+Year: 1994
+
+Title: GoodFellas
+Genre: Crime
+Director Name: Martin Scorsese
+Studio: Warner Bros. Pictures
+Year: 1990
+
+Title: Seven Samurai
+Genre: Action
+Director Name: Akira Kurosawa
+Studio: Toho
+Year: 1954
+
+Title: Grave of the Fireflies
+Genre: Animation
+Director Name: Isao Takahata
+Studio: Studio Ghibli
+Year: 1988
+
+Title: Life Is Beautiful
+Genre: Comedy
+Director Name: Roberto Benigni
+Studio: Melampo Cinematografica
+Year: 1997
+
+Title: David Attenborough: A Life on Our Planet
+Genre: Documentary
+Director Name: Alastair Fothergill
+Director Name: Jonathan Hughes
+Director Name: Keith Scholey
+Studio: Silverback Films
+Year: 2020
+
+Title: Harakiri
+Genre: Drama
+Director Name: Masaki Kobayashi
+Studio: Shochiku
+Year: 1962
+
+Title: Fight Club
+Genre: Drama
+Director Name: David Fincher
+Studio: Fox 2000 Pictures
+Year: 1999
+
+Title: The Lord of the Rings: The Fellowship of the Ring
+Genre: Adventure
+Director Name: Peter Jackson
+Studio: New Line Cinema
+Year: 2001
+
+Title: City of God
+Genre: Crime
+Director Name: Fernando Meirelles
+Director Name: Katia Lund
+Studio: O2 Filmes
+Year: 2002
+
+Title: Cinema Paradiso
+Genre: Drama
+Director Name: Giuseppe Tornatore
+Studio: Cristaldifilm
+Year: 1988
+
+Title: Human
+Genre: Documentary
+Director Name: Yann Arthus-Bertrand
+Studio: Humankind Production
+Year: 2015
+
+Title: The Lord of the Rings: The Two Towers
+Genre: Adventure
+Director Name: Peter Jackson
+Studio: New Line Cinema
+Year: 2002
+
+Title: Psycho
+Genre: Horror
+Director Name: Alfred Hitchcock
+Studio: Shamley Productions
+Year: 1960
+
+Title: One Flew Over the Cuckoo's Nest
+Genre: Drama
+Director Name: Milos Forman
+Studio: Fantasy Films
+Year: 1975
